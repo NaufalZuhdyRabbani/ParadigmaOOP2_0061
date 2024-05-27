@@ -128,6 +128,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Multiwaris.cpp" />
     <ClCompile Include="Nooppewarisan.cpp" />
     <ClCompile Include="ParadigmaOOP2_0061.cpp" />
     <ClCompile Include="Nooverriding.cpp" />
