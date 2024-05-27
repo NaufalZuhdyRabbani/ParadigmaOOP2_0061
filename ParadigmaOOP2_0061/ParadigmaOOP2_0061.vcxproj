@@ -128,12 +128,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="abstraksi.cpp" />
+    <ClCompile Include="encapsulasi.cpp" />
     <ClCompile Include="Multiwaris.cpp" />
     <ClCompile Include="Nooppewarisan.cpp" />
-    <ClCompile Include="ParadigmaOOP2_0061.cpp" />
+    <ClCompile Include="Pollymorphy.cpp" />
     <ClCompile Include="Nooverriding.cpp" />
+    <ClCompile Include="Solvemultiwaris.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Abstraksi.h" />
     <ClInclude Include="Nooverridding.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
