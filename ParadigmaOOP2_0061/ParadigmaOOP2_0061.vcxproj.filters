@@ -18,5 +18,16 @@
     <ClCompile Include="ParadigmaOOP2_0061.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Nooverriding.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Nooppewarisan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Nooverridding.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
